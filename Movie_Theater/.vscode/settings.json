@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/muteeba/Downloads/javax.mail.jar",
+        "/Users/muteeba/Downloads/mailactivation/activation.jar",
+        "/Users/muteeba/Downloads/mailactivation/javax.activation.jar"
+    ]
+}
